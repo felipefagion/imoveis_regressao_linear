@@ -43,4 +43,4 @@ Este projeto tem como objetivo analisar dados de imóveis para aluguel no Brasil
 5. **Avaliação**: Avaliar o modelo utilizando o Erro Quadrático Médio (MSE).
 
 ## 🔍 Conclusão
-A análise permite entender os fatores que impactam o valor de aluguel em diferentes cidades brasileiras, oferecendo insights sobre o mercado imobiliário e ajudando a prever o preço de aluguel com base nas características do imóvel.
+
